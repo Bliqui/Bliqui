@@ -30,7 +30,3 @@
 ![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bliqui)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bliqui&layout=compact)
-
-[linkedin]: https://www.linkedin.com/in/bogdan-koykov-015716225/
-[facebook]: https://www.facebook.com/bogdan.koykov.7
-[telegram]: @Bliqu1
