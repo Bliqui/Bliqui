@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Bogdan
 
-## I'm a starting FrontEnd Developer
-- 💻 I like to write code
-- 💪 I like to work out in the gym
-- 🥅 I am constantly learning new things
+## I'm a FrontEnd Developer ;)
 
 ### Connect with me:
 
