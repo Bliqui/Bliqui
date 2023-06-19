@@ -20,8 +20,3 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <br />
-<br />
-
-![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bliqui)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bliqui&layout=compact)
