@@ -3,10 +3,6 @@
 ### Connect with me:
 
 [<img align="left" alt="BogdanKoykov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bogdan-koykov-015716225/)
-[<img align="left" alt="BogdanKoykov | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/bogdan.koykov.7)
-[<img align="left" alt="BogdanKoykov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/bodzio1)
-[<img align="left" alt="BogdanKoykov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/Bliqu1)
-
 
 <br />
 
